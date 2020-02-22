@@ -192,9 +192,8 @@ blockquote {
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   font-size: 1.6em;
   font-weight: 300;
-  line-height: 1.2em;
+  line-height: 1.1em;
   font-style: italic;
-  text-transform: uppercase;
   border-left: 0.5em solid rgba(0, 0, 0, 0.05);
   margin-left: 1em;
   padding-left: 1em;
